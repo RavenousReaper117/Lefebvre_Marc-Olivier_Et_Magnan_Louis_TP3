@@ -2,7 +2,7 @@ fileFormatVersion: 2
 guid: 52b78bb63c6c1ec47bfc2f3b52288ab0
 AudioImporter:
   externalObjects: {}
-  serializedVersion: 8
+  serializedVersion: 7
   defaultSettings:
     serializedVersion: 2
     loadType: 0
