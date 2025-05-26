@@ -1624,12 +1624,12 @@ MonoBehaviour:
   defaultBank:
     name: 
     clips:
-    - {fileID: 8300000, guid: fefc56c42ee86fd4ca5c669c2a6752bb, type: 3}
-    - {fileID: 8300000, guid: c45e7ca59e641724bb30d769633dfb25, type: 3}
-    - {fileID: 8300000, guid: d66f2ba41988f5b46b974419243fc3c7, type: 3}
-    - {fileID: 8300000, guid: 82544d7b59a8afc4185269c2007e796a, type: 3}
-    - {fileID: 8300000, guid: e598c4c385728ae41bec50e51d95c9a8, type: 3}
-    - {fileID: 8300000, guid: b8a6e180179099d4da4d8299a56c3c74, type: 3}
+    - {fileID: 8300000, guid: 824b8c3355addc84b88dd45a7801381a, type: 3}
+    - {fileID: 8300000, guid: 0df139b82eb0fd84ca8abee7d0705b26, type: 3}
+    - {fileID: 8300000, guid: e578a8dfe952cfc40b09c7adb52b97f9, type: 3}
+    - {fileID: 8300000, guid: 3c471912d9e80d248be4915074c85cbb, type: 3}
+    - {fileID: 8300000, guid: 29134b0ca8f2af144a98d58c8e7e9c69, type: 3}
+    - {fileID: 8300000, guid: a21ffc5ec21b0564eace1473b8751c6f, type: 3}
   overrides: []
   playing: 0
   canPlay: 0
